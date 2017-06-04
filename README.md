@@ -9,5 +9,10 @@ python3
     - demo4.py  解二次方程
     - demo5.py  计算三角形面积
     - demo6.py  随机数生成
+    - demo7.py  摄氏温度转华氏温度
+    - demo8.py  交换变量
+    - demo9.py  if语句
+    - demo10.py  判断字符串是否为数字
+    - demo11.py  判断奇偶数
 - myself	自己原创的程序
     - copy.py   拷贝文件
