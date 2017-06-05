@@ -14,5 +14,9 @@ python3
     - demo9.py  if语句
     - demo10.py  判断字符串是否为数字
     - demo11.py  判断奇偶数
+    - demo12.py  判断闰年
+    - demo13.py  获取最大值函数
+    - demo14.py  判断质数
+    - demo15.py  输出指定范围内的质数
 - myself	自己原创的程序
     - copy.py   拷贝文件
