@@ -26,5 +26,6 @@ python3
     - demo21.py  ASCII码与字符转换
     - demo22.py  最大公约数
     - demo23.py  最小公倍数
+    - demo24.py  简易计算器
 - myself	自己原创的程序
     - copy.py   拷贝文件
