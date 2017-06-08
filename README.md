@@ -24,5 +24,7 @@ python3
     - demo19.py  输出阿姆斯特朗数
     - demo20.py  进制转换
     - demo21.py  ASCII码与字符转换
+    - demo22.py  最大公约数
+    - demo23.py  最小公倍数
 - myself	自己原创的程序
     - copy.py   拷贝文件
