@@ -32,5 +32,7 @@ python3
     - demo27.py  文件操作
     - demo28.py  字符串判断
     - demo29.py  字符串转换
+    - demo30.py  计算月份天数
+    - demo31.py  获取昨天日期
 - myself	自己原创的程序
     - copy.py   拷贝文件
