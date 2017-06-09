@@ -27,5 +27,10 @@ python3
     - demo22.py  最大公约数
     - demo23.py  最小公倍数
     - demo24.py  简易计算器
+    - demo25.py  递归实现斐波那契数列
+    - demo26.py  生成日历
+    - demo27.py  文件操作
+    - demo28.py  字符串判断
+    - demo29.py  字符串转换
 - myself	自己原创的程序
     - copy.py   拷贝文件
