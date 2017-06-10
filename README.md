@@ -36,3 +36,5 @@ python3
     - demo31.py  获取昨天日期
 - myself	自己原创的程序
     - copy.py   拷贝文件
+- libs    库函数使用程序
+    - jsonDemo.py   json解析和编码
