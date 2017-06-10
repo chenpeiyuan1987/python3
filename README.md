@@ -1,5 +1,4 @@
 # python3
-python3
 
 ## 目录结构
 - demo		网路教程的程序
