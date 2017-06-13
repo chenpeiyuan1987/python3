@@ -1,4 +1,5 @@
 # python3
+学习示例
 
 ## 目录结构
 - demo		网路教程的程序
@@ -37,3 +38,4 @@
     - copy.py   拷贝文件
 - libs    库函数使用程序
     - jsonDemo.py   json解析和编码
+    - reDemo.py     正则表达式库
